@@ -3,7 +3,15 @@
 An **AI-powered sentiment analytics platform** for real-time Twitter data.  
 Monitor trending topics, gauge user sentiment, and visualize insights with an intuitive dashboard—all in one place.
 
----
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen)
+![Version](https://img.shields.io/badge/VERSION-0.1.0-red)
+![Chain](https://img.shields.io/badge/VERSION-PYHTON.3.8+-blue)
+
+</div>
+
+   ---
 
 ## Overview
 
