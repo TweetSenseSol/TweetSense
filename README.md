@@ -76,13 +76,6 @@ The TweetSense platform follows a simple but flexible architecture:
 - Update `tweetsense/config.py` or environment variables to change **search keywords**, **language**, or **max tweet count**.  
 - Swap out **TextBlob** in `sentiment_analysis.py` for another ML library if you need more advanced NLP.
 
----
-
-### Example Screenshots
-*(Add or replace with your own images.)*
-
-- **Dashboard Overview**  
-- **Sentiment Bar Chart**
 
 ---
 
@@ -126,5 +119,10 @@ TweetSense is licensed under the [MIT License](./LICENSE). You are free to use, 
 We’re excited to have you on board and look forward to improving TweetSense with your feedback and contributions!
 
 ---
+
+## **Contact**
+
+- **Twitter**: [@TweetSenseAI](http://x.com/TweetSenseAI)
+- **GitHub**: [github.com/TweetSenseSol/TweetSense](https://github.com/TweetSenseSol/TweetSense)
 
 > **Disclaimer**: TweetSense relies on the Twitter API for data. Always abide by Twitter's Developer Policy and respect user privacy when handling tweet data.
