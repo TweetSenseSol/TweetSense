@@ -1,0 +1,7 @@
+streamlit
+tweepy
+textblob
+pandas
+numpy
+pytest
+unittest2
